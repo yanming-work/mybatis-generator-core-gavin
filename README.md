@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # mybatis-generator-core-gavin
 修改mybatis-generator-core 1.3.6 
 MybatisGenerator
@@ -428,4 +427,3 @@ javaModelGenerator里面targetProject可以配置非src，以便于区分源码�
 table里面配置集成的父类可用，该属性也可以再javaModelGenerator里面配置公用 
 <property name="rootClass" value="xxx.BaseModel"/> 
 table里面配置插入返回主键配置<generatedKey column="id" sqlStatement="MySql" identity="true"/> 
->>>>>>> branch 'master' of https://github.com/yanming-work/mybatis-generator-core-gavin.git
